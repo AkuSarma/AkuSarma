@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with kivy
 - ⚡ Fun fact: Almost anything powered with electricity needs to be coded. Can you imagine?!
 
-![My Website](https://akusarma.github.io/portfolio.github.io/)
+![My Website](https://akusarma.github.io/portfolio.github.io)
