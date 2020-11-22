@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning django
-- 👯 I’m looking to collaborate on [Rock papper scissor game using kivy](https://github.com/AkuSarma/Rock-Papper-Scissor-game-using-python-kivy)
+- 👯 I’m looking to collaborate on Nothing
 - 🤔 I’m looking for help with kivy
 - ⚡ Fun fact: Almost anything powered with electricity needs to be coded. Can you imagine?!
 
