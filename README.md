@@ -2,7 +2,7 @@
 ## I am Aku Sarma
 
 - 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning MySQL
 - 👯 I’m looking to collaborate on Nothing
 - 🤔 I’m looking for help with kivy
 - ⚡ Fun fact: Almost anything powered with electricity needs to be coded. Can you imagine?!
