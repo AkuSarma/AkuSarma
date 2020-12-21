@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## I am Aku Sarma
+![](https://komarev.com/ghpvc/?username=your-github-AkuSarma&color=green)
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning MySQL
