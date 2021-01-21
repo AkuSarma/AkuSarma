@@ -2,7 +2,7 @@
 ## I am Aku Sarma
 ![](https://komarev.com/ghpvc/?username=your-github-AkuSarma&color=green)
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on [Calculator using kivy](https://github.com/AkuSarma/Calculator)
 - 🌱 I’m currently learning MySQL
 - 👯 I’m looking to collaborate on Nothing
 - 🤔 I’m looking for help with kivy
