@@ -2,8 +2,8 @@
 ## I am Aku Sarma
 ![](https://komarev.com/ghpvc/?username=your-github-AkuSarma&color=green)
 
-- 🔭 I’m currently working on Nothing(Studing for my final exam)
-- 🌱 I’m currently learning Nothing
+- 🔭 I’m currently working on Nohting
+- 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on Nothing
 - 🤔 I’m looking for help with kivy
 - ⚡ Fun fact: Almost anything powered with electricity needs to be coded. Can you imagine?!
