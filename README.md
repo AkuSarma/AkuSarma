@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I am Aku Sarma
-![](https://komarev.com/ghpvc/?username=your-github-AkuSarma&color=green)
+<!-- ![](https://komarev.com/ghpvc/?username=your-github-AkuSarma&color=green) -->
 
 - 🔭 I’m currently working on Nohting
 - 🌱 I’m currently learning C#
