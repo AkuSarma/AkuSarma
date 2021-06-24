@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on none.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning nothing.
 - 👯 I’m looking to collaborate on none.
 - 🤔 I’m looking for help with none.
 - ⚡ Fun fact: Almost everything powered with electricity needs to be coded. Can you imagine?!
