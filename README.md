@@ -3,7 +3,7 @@
     <h2>I am Aku Sarma</h2>
 </div>
 
-- 🔭 I’m currently working on none.
+- 🔭 I’m currently working on improving my unpleasant design.
 - 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate on none.
 - 🤔 I’m looking for help with none.
