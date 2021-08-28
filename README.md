@@ -16,7 +16,7 @@
 [<img align="left" alt="akusarma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/AkuSarma
-[linkedin]: www.linkedin.com/in/akusarma
+[linkedin]: https://www.linkedin.com/in/akusarma
 <br/>
 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github calculation of which languages I have the most code on github.
