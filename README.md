@@ -7,7 +7,17 @@
 - 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate on anything.
 - 🤔 I’m looking for help with [History section](https://github.com/AkuSarma/Calculator "AkuSarma/Calculator").
+- 📫 How to reach me: akusarma1702@gmail.com
 - ⚡ Fun fact: Almost everything powered with electricity needs to be coded. Can you imagine?!
+
+### Connect with me:
+
+[<img align="left" alt="AkuSarma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="akusarma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/AkuSarma
+[linkedin]: www.linkedin.com/in/akusarma
+<br/>
 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github calculation of which languages I have the most code on github.
 <br>
