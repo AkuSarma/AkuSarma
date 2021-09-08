@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate on anything.
 - 🤔 I’m looking for help with [History section](https://github.com/AkuSarma/Calculator "AkuSarma/Calculator").
-- 📫 How to reach me: akusarma1702@gmail.com
+- 📫 How to reach me: <a href="mailto:akusarma17022gmail.com">Email me</a>.<br>
 - ⚡ Fun fact: Almost everything powered with electricity needs to be coded. Can you imagine?!
 
 ### Connect with me:
