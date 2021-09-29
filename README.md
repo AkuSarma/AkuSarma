@@ -3,7 +3,7 @@
     <h2>I am Aku Sarma</h2>
 </div>
 
-- 🔭 I’m currently working on improving myself.
+- 🔭 I’m currently working on some old projects.
 - 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate on anything.
 - 🤔 I’m looking for help with [History section](https://github.com/AkuSarma/Calculator "AkuSarma/Calculator").
