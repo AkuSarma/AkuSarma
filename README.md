@@ -14,9 +14,11 @@
 
 [<img align="left" alt="Twitter" width="22px" src="images/twitter.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="images/linkedin.png" />][linkedin]
+[<img align="left" alt="Telegram" width="22px" src="images/telegram-icon.png" />][Telegram]
 
 [twitter]: https://twitter.com/AkuSarma
 [linkedin]: https://www.linkedin.com/in/akusarma
+[Telegram]: https://t.me/AkuSarma
 <br/>
 
 NOTE: *Top languages does not indicate my skill level or something like that, it's a github calculation of which languages I have the most code on github.*
