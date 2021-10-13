@@ -1,10 +1,10 @@
 <div align="center">
-  <h3>Hi there 👋</h3>
+  <h3>Namaste 🙏</h3>
     <h2>I am Aku Sarma</h2>
 </div>
 
 - 🔭 I’m currently working on some old projects.
-- 🌱 I’m currently learning cp.
+- 🌱 I’m currently learning java😇.
 - 👯 I’m looking to collaborate on anything.
 - 🤔 I’m looking for help with [History section](https://github.com/AkuSarma/Calculator "AkuSarma/Calculator").
 - 📫 How to reach me: <a href="mailto:akusarma17022gmail.com">Email me</a>.<br>
