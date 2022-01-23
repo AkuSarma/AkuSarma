@@ -28,3 +28,4 @@ NOTE: *Top languages does not indicate my skill level or something like that, it
 <br>
 ![AkuSarma's github stats](https://github-readme-stats.vercel.app/api?username=AkuSarma&show_icons=true&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuSarma&theme=radical)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=AkuSarma&theme=redical)
