@@ -22,7 +22,7 @@
 [Telegram]: https://t.me/AkuSarma
 [instagram]: https://www.instagram.com/aku_sarma_/
 
-<br/>
+<br>
 
 NOTE: *Top languages does not indicate my skill level or something like that, it's a github calculation of which languages I have the most code on github.*
 <br>
