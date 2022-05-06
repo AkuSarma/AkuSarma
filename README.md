@@ -4,7 +4,7 @@
 </div>
 
 - 🔭 I’m currently working on some old projects.
-- 🌱 I’m currently learning flutter.
+- 🌱 I’m currently learning how to focus on one thing.
 - 👯 I’m looking to collaborate on anything.
 - 🤔 I’m looking for help with [History section](https://github.com/AkuSarma/Calculator/issues "AkuSarma/Calculator").
 - 📫 How to reach me: <a href="mailto:akusarma17022gmail.com">Email me</a>.<br>
