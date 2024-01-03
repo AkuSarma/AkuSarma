@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a mern project.<br>🌱 I’m currently learning how to focus on one thing.<br>👯 I’m looking to collaborate on anything.<br>📫 How to reach me: Email me.<br>⚡ Fun fact: Almost everything powered with electricity needs to be coded. Can you imagine?!
+🔭 I’m currently working on a mern project.<br>🌱 I’m currently learning how to focus on one thing.<br>👯 I’m looking to collaborate on anything.<br>📫 How to reach me: akusarma1702@gmail.com .<br>⚡ Fun fact: Almost everything powered with electricity needs to be coded. Can you imagine?!
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AkuSarma&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
