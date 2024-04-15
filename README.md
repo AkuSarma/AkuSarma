@@ -1,7 +1,7 @@
 ## Namaste 🙏, I'm Aku Sarma 
 
 # 💫 About Me:
-🔭 I’m currently working on mern projects<br><br>🌱 I’m currently learning how to focus<br><br>👯 I’m looking to collaborate on anyting<br><br>📫 How to reach me akusarma1702@gmail.com<br><br>⚡ Fun fact Almost everything powered with electricity needs to be coded. Can you imagine?!
+🔭 I’m currently working on everything that I see<br><br>🌱 I’m currently learning how to focus on one thing<br><br>👯 I’m looking to collaborate on anyting<br><br>📫 How to reach me https://linktr.ee/akusarma<br><br>⚡ Fun fact Almost everything powered with electricity needs to be coded. Can you imagine?!
 
 
 ## 🌐 Socials:
