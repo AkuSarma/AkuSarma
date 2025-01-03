@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **university porjects**
 
-- 🌱 I’m currently learning **react native**
+- 🌱 I’m currently learning **flutter**
 
 - 👯 I’m looking to collaborate on **anything**
 
