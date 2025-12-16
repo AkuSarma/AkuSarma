@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 🤝 I’m looking for help with **how to focus on one thing**
+<!-- - 🤝 I’m looking for help with **how to focus on one thing** -->
 
-- 👨‍💻 All of my projects are available at [akusarma/projects](https://aku-sarma.vercel.app/projects)
+- 👨‍💻 All of my projects are available at [akusarma/projects](https://aku-sarma.vercel.app/Projects)
 
 - 💬 Ask me about **reactjs, nextjs, expressjs, mongodb, mysql, javascript**
 
