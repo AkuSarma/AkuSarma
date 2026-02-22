@@ -26,3 +26,7 @@
 <a href="https://instagram.com/aku_sarma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aku_sarma_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/AkuSarma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lol" height="30" width="40" /></a>
 </p>
+
+<hr/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akusarma&" alt="akusarma" /></p>
